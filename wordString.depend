@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439210105 source:c:\users\nischit\desktop\nischit\codeblock\eatikae\wordstring\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
+1439213705 source:f:\nischit\codeblock\eatikae\wordstring\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
